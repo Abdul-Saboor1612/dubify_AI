@@ -1,0 +1,12 @@
+# Ignore virtual environment and cache
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.dylib
+*.so
+*.log
+.env
+.DS_Store
